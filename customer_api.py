@@ -4,7 +4,7 @@ from datetime import date, timedelta, datetime
 
 from django.conf import settings
 
-url = 'https://subscribe.briterevolution.com/api'
+url = 'https://<< URL to Foxy >>/api'
 
 class Customer(object):
 
